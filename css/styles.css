@@ -11308,3 +11308,14 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+#company-emblem {
+  width: 22px;
+}
+
+.staff-thumb {
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
