@@ -2,9 +2,9 @@
 layout: blog-post
 title:  "5 Reasons Why Jekyll is the Perfect Static Site Generator for Your Next Project"
 date: 2022-12-20 12:00:00 -0600
-category: Website Development
+categories: Website Development
 image: /assets/images/jekyll.png
-snippet: Are you tired of dealing with complex back-end systems and slow-loading websites? If so, it might be time to consider using a static site generator like Jekyll.
+excerpt: Are you tired of dealing with complex back-end systems and slow-loading websites? If so, it might be time to consider using a static site generator like Jekyll.
 author: Zach Dyer
 permalink: 5-reasons-to-use-jekyll
 ---
