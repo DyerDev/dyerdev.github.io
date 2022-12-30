@@ -5,6 +5,7 @@ date: 2022-12-29 12:00:00 -0600
 categories: News
 image: /assets/images/tech-guy-coffee.png
 author: Zach Dyer
+comments: true
 ---
 
 
