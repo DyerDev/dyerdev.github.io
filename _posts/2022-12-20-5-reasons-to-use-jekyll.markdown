@@ -7,6 +7,7 @@ image: /assets/images/jekyll.png
 excerpt: Are you tired of dealing with complex back-end systems and slow-loading websites? If so, it might be time to consider using a static site generator like Jekyll.
 author: Zach Dyer
 permalink: 5-reasons-to-use-jekyll
+comments: true
 ---
 Are you tired of dealing with complex back-end systems and slow-loading websites? If so, it might be time to consider using a static site generator like Jekyll.
 
