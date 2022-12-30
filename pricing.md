@@ -17,7 +17,7 @@ tier:
       - Custom Domain
       - Favicon
       - Contact Form
-      - Content Management System
+      - Blog
   two:
     title: Professional
     price: 50
@@ -30,7 +30,7 @@ tier:
       - Favicon
       - Contact Form
     excluded:
-      - Content Management System
+      - Blog
   three:
     title: Premium
     price: 100
@@ -42,6 +42,6 @@ tier:
       - Custom Domain
       - Favicon
       - Contact Form
-      - Content Management System
+      - Blog
     excluded:
 ---
