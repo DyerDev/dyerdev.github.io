@@ -41,11 +41,7 @@
                                                 <br />
                                                 <a href="mailto: {{site.email}}">{{site.email}}</a>
                                             </p>
-                                            {% if site.data.settings.facbook-url %}<div class="h6 fw-bolder">Follow us</div>{% endif %}
-                                            {% if site.data.settings.twitter-url %}<a class="fs-5 px-2 link-dark" href="{{twitter-url}}"><i class="bi-twitter"></i></a>{% endif %}
-                                            {% if site.data.settings.facbook-url %}<a class="fs-5 px-2 link-dark" href="{{facebook-url}}"><i class="bi-facebook"></i></a>{% endif %}
-                                            {% if site.data.settings.linkedin-url %}<a class="fs-5 px-2 link-dark" href="{{linkedin-url}}"><i class="bi-linkedin"></i></a>{% endif %}
-                                            {% if site.data.settings.youtube-url %}<a class="fs-5 px-2 link-dark" href="{{youtube-url}}"><i class="bi-youtube"></i></a>{% endif %}
+                                            {% include social.html %}
                                         </div>
                                     </div>
                                 </div>

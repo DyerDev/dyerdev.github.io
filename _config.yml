@@ -10,6 +10,7 @@ url: "https://dyerdev.com" # the base hostname & protocol for your site, e.g. ht
 paginate: 3
 paginate_path: "/blog/page:1"
 pagination_layout: blog-home
+tier: premium
 
 # Build settings
 plugins:
