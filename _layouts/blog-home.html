@@ -97,11 +97,11 @@
                         {% if paginator.total_pages > 1 %}
                         <div class="text-end mb-5 mb-xl-0">
                         {% if paginator.previous_page %}
-                            <a href="{{ paginator.previous_page_path | relative_url }}" class="text-decoration-none"><i class="bi bi-arrow-left"></i> Prev</a>
+                            <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-primary float-start"><i class="bi bi-arrow-left"></i> Prev</a>
                         {% endif %}
 
                         {% if paginator.next_page %}
-                            <a href="{{ paginator.next_page_path | relative_url }}">Next <i class="bi bi-arrow-right"></i></a>
+                            <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-primary float-end">Next <i class="bi bi-arrow-right"></i></a>
                         {% endif %}
                         </div>
                         {% endif %}

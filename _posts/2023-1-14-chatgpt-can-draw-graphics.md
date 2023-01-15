@@ -2,7 +2,7 @@
 title: "Exploring the Capabilities of ChatGPT in Generating SVG Shapes"
 layout: blog-post
 categories: Website Development
-image: /assets/images/open-ai.png
+image: /assets/images/svg-vector.png
 author: Zach Dyer
 comments: true
 ---
