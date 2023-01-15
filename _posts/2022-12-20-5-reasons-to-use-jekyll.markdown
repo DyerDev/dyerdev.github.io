@@ -26,9 +26,3 @@ Community: Jekyll has a large and active community of users, which means there i
 SEO: Static sites are easily crawled by search engines, which means that your website is more likely to rank highly in search results and attract organic traffic.
 
 Overall, Jekyll is a powerful and versatile static site generator that is perfect for anyone looking to create a simple, yet powerful website that is easy to maintain and performs well. Give it a try and see for yourself why Jekyll is such a popular choice for web developers around the world.
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
