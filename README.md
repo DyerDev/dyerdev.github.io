@@ -1,5 +1,1 @@
-Welcome to DyerDev, a passionate and skilled software development team with a knack for creating sleek, modern websites that prioritize both aesthetics and functionality.
-
-We specialize in building lightweight, secure websites that load quickly and perform exceptionally well in search engine rankings. We have a strong understanding of the latest technologies and trends in web development, and are dedicated to staying up-to-date on the latest best practices in order to deliver the best possible product for our clients.
-
-Whether you need a new website built from scratch, or an existing site in need of an update, DyerDev has the skills and expertise to bring your vision to life. So if you're looking for a tech-savvy professional who can create stunning, high-performing websites that stand out in a crowded online landscape, look no further than DyerDev.
+# Zach Dyer Design
