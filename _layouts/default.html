@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="{% if page.url != "/" %}page{% endif %}">
+
+    <!-- Navigation -->
+    {% include nav.html %}
+
+    <!-- Header -->
+    {% if page.url == "/" %}{% include header.html %}{% endif %}
+
+    <!-- Page Content -->
+    {{ content }}
+
+    {% include footer.html %}
+
+    <!-- jQuery -->
+    <script src="/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

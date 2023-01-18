@@ -2,10 +2,10 @@
 title: Home
 layout: home
 header:
-  title: Transform your online presence with beautiful, fast, and secure websites crafted by DyerDev
+  title: Transform your online presence with beautiful, fast, and secure websites crafted by Zach Dyer Design
   description: We specialize in building lightweight, secure websites that load quickly and perform exceptionally well in search engine rankings. We have a strong understanding of the latest technologies and trends in web development, and are dedicated to staying up-to-date on the latest best practices in order to deliver the best possible product for our clients.
   image: 
-    filename: code.jpg
+    filename: banner-zdd.jpg
     description: Image of Javascript on a monitor
   primarybutton:
     title: Contact Us
@@ -34,7 +34,7 @@ fouritemlist:
 testimony: 
   name: John Lorenz
   title: CEO, <a href="https://dynamicevc.com" target="_blank">DynamicEVC</a>
-  quote: I was blown away by the professionalism and attention to detail that DyerDev brought to the table. Not only did he create a beautiful and user-friendly website, but they also made sure it was fast and secure. I couldn't be happier with the end result, and I highly recommend his services to anyone looking to take their online presence to the next level.
+  quote: I was blown away by the professionalism and attention to detail that Zach Dyer Design brought to the table. Not only did he create a beautiful and user-friendly website, but they also made sure it was fast and secure. I couldn't be happier with the end result, and I highly recommend his services to anyone looking to take their online presence to the next level.
   image: /assets/images/dynamic-evc-emblem.png
 blog: 
   title: From our blog
