@@ -2,10 +2,10 @@
 title: Home
 layout: home
 header:
-  title: Transform your online presence with beautiful, fast, and secure websites crafted by Zach Dyer Design
+  title: Transform your online presence with beautiful, fast, and secure websites crafted by DyerDev
   description: We specialize in building lightweight, secure websites that load quickly and perform exceptionally well in search engine rankings. We have a strong understanding of the latest technologies and trends in web development, and are dedicated to staying up-to-date on the latest best practices in order to deliver the best possible product for our clients.
   image: 
-    filename: banner-zdd.jpg
+    filename: code.jpg
     description: Image of Javascript on a monitor
   primarybutton:
     title: Contact Us
